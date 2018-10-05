@@ -26,6 +26,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Narrative and Critical History of America, Vol. II (of 8)
 
   Spanish Explorations and Settlements in America from the Fifteenth to the Seventeenth
